@@ -1,8 +1,18 @@
-layout_spectrum: 0.4170209
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.04585101
 color:
   saturation: 0.00708843
-  lightness: 0.8423014
   brandStrength: 0.1352347
   rhythmicContrast: 0.5255239
   brandColors:
@@ -11,4 +21,6 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  lightness: 0.8423014
+layout_spectrum: 1
 name: EldridgeWeddingJAM
