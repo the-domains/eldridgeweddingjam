@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[EldridgeWeddingJAM]]></title>
         <description><![CDATA[EldridgeWeddingJAM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eldridgeweddingjam/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 23:02:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jul 2016 03:12:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eldridgeweddingjam/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6996fdf-b543-4467-980f-5c4c488e1a0f.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6996fdf-b543-4467-980f-5c4c488e1a0f.jpg</link>
+            <guid isPermaLink="false">618f8d2e-216f-44a4-a461-6d01c33e93cf</guid>
+            <pubDate>Sun, 03 Jul 2016 03:12:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Weekend Begins!]]></title>
             <description><![CDATA[<article><h1>The Weekend Begins!</h1><p>Just got to the Desmond! The wedding weekend has begun!!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d0b98920e83f5ab6ded2dda91e1c5e7a/croprotate.jpg?cropheight=1280&cropwidth=960&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc9d1ec2c-5d85-406c-b533-6b4d2ee79463.jpg&x=0&y=0"></article>]]></description>
